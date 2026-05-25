@@ -16,7 +16,6 @@ Focus on clarity and correctness, helping you build solid fundamentals step by s
 Please refer to the installation commands below to set up your environment.
 请参考下方的安装命令来配置你的环境。
 
----
 
 ## 📦 Environment Setup / 环境安装
 
@@ -36,7 +35,6 @@ conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 cpuonly -c py
 pip install -r requirements.txt
 ```
 
----
 
 ------------------------------------------------------------
 
