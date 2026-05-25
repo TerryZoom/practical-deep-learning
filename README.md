@@ -1,8 +1,8 @@
 # practical_deep_learning
 Offer correct, friendly, and practical deep learning code for beginners and people who need to review.
-Based on brother Pao PyTorch introductory series.
 
-源自炮哥 PyTorch 入门教程：
+Based on brother Pao PyTorch introductory series.
+源自炮哥 PyTorch 入门教程。
 
 This repo offers correct, friendly, and practical deep learning code examples, designed specifically for beginners and those who need a quick review.
 本仓库提供正确、友好且实用的深度学习代码示例，专为初学者及需要快速复习的人群设计。
